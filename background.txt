@@ -1,0 +1,20 @@
+Game Title: [游戏名称]
+开心消消乐
+
+Game Genre: [游戏类型]
+三消游戏
+
+Game Setting: [游戏背景设定]
+
+
+Core Concept: [核心玩法概念]
+
+Target Players: [目标玩家群体]
+
+Game Characters: [游戏角色介绍]
+
+Special Features: [游戏特色功能]
+
+Development Background: [开发背景]
+
+Additional Notes: [其他补充说明]
