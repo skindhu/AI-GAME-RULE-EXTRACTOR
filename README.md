@@ -24,8 +24,8 @@ AI-GAME-RULE-EXTRACTOR 是一个基于微软论文[《MM-VID: Advancing Video Un
 
 1. 克隆仓库：
    ```
-   git clone https://github.com/your-username/MM-VID.git
-   cd MM-VID
+   git clone https://github.com/skindhu/AI-GAME-RULE-EXTRACTOR
+   cd AI-GAME-RULE-EXTRACTOR
    ```
 
 2. 安装依赖：
@@ -82,8 +82,8 @@ AI-GAME-RULE-EXTRACTOR is an innovative project developed based on Microsoft's p
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/MM-VID.git
-   cd MM-VID
+   git clone https://github.com/skindhu/AI-GAME-RULE-EXTRACTOR
+   cd AI-GAME-RULE-EXTRACTOR
    ```
 
 2. Install dependencies:
