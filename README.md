@@ -56,4 +56,7 @@ python main.py
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
+
+Follow the author's WeChat Official Account to learn more about AI exploration:
+
 <img src="https://wechat-account-1251781786.cos.ap-guangzhou.myqcloud.com/wechat_account.jpeg" width="30%">
