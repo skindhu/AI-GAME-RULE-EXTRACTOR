@@ -1,4 +1,4 @@
-# AI-GAME-RULE-EXTRACTOR: 从游戏视频中提取游戏规则
+# AI-GAME-RULE-EXTRACTOR: 从游戏视频中提取游戏玩法设计规则
 <img src="https://wechat-account-1251781786.cos.ap-guangzhou.myqcloud.com/ai-game-rule-extractor/game-rule-excutor-font.webp">
 
 

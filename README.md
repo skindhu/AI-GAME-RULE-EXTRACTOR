@@ -1,4 +1,4 @@
-# AI-GAME-RULE-EXTRACTOR: Extracting Game Rules from Gameplay Videos
+# AI-GAME-RULE-EXTRACTOR: Extracting Game Design Rules from Gameplay Videos
 <img src="https://wechat-account-1251781786.cos.ap-guangzhou.myqcloud.com/ai-game-rule-extractor/game-rule-excutor-font.webp">
 
 
